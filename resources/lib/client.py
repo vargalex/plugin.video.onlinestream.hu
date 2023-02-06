@@ -27,8 +27,11 @@ except:
     transPath = xbmc.translatePath
 
 addon = xbmcaddon.Addon()
+addonVersion = addon.getAddonInfo('version')
 addonUserDataFolder = transPath(addon.getAddonInfo('profile'))
 CACHE_FILE = os.path.join(addonUserDataFolder, 'requests_cache')
+
+customHeaders = {'User-Agent': 'Kodi/%s' % addonVersion}
 
 def request(url, cache=False):
 
@@ -40,6 +43,6 @@ def request(url, cache=False):
 
     if cache == False:
         with requests_cache.disabled():
-            return requests.get(url)
+            return requests.get(url, headers=customHeaders)
     else:
-        return requests.get(url)
+        return requests.get(url, headers=customHeaders)

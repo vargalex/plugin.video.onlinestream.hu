@@ -1,4 +1,7 @@
-﻿[B]1.1.8[/B]
+﻿[B]1.1.9[/B]
+- Egyedi user agent
+
+[B]1.1.8[/B]
 - Webkamerák kategória
 
 [B]1.1.7[/B]
