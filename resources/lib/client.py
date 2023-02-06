@@ -31,7 +31,7 @@ addonVersion = addon.getAddonInfo('version')
 addonUserDataFolder = transPath(addon.getAddonInfo('profile'))
 CACHE_FILE = os.path.join(addonUserDataFolder, 'requests_cache')
 
-customHeaders = {'User-Agent': 'Kodi/%s' % addonVersion}
+customHeaders = {'User-Agent': 'Online Stream for Kodi/%s' % addonVersion}
 
 def request(url, cache=False):
 
