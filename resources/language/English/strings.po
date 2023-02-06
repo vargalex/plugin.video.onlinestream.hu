@@ -1,0 +1,164 @@
+# Kodi Media Center language file
+# Addon Name: Online Stream
+# Addon id: plugin.audio.onlinestream.hu
+# Addon version: 1.0.0
+# Addon Provider: aky01
+
+msgid ""
+msgstr ""
+
+msgctxt "#32001"
+msgid "TVs"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Radios"
+msgstr ""
+
+msgctxt "#32003"
+msgid "[COLOR green]Next page >>[/COLOR]"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Search"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Sort stations"
+msgstr ""
+
+msgctxt "#32006"
+msgid "By popularity"
+msgstr ""
+
+msgctxt "#32007"
+msgid "By name"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Select channel"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Tracklist"
+msgstr ""
+
+msgctxt "#32010"
+msgid "Tracklist not available"
+msgstr ""
+
+msgctxt "#32011"
+msgid "Cannot connect to database!"
+msgstr ""
+
+msgctxt "#32012"
+msgid "No results!"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Select resolution"
+msgstr ""
+
+msgctxt "#32014"
+msgid "TV"
+msgstr ""
+
+msgctxt "#32015"
+msgid "Radio"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Favourites"
+msgstr ""
+
+msgctxt "#32017"
+msgid "Add to Favourites"
+msgstr ""
+
+msgctxt "#32018"
+msgid "Delete from Favourites"
+msgstr ""
+
+msgctxt "#32019"
+msgid "Favourites folder empty"
+msgstr ""
+
+msgctxt "#32020"
+msgid "Added to Favourites"
+msgstr ""
+
+msgctxt "#32021"
+msgid "Clear addon Cache"
+msgstr ""
+
+msgctxt "#32022"
+msgid "Clear Favourites"
+msgstr ""
+
+msgctxt "#32023"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "#32024"
+msgid "Process Complete"
+msgstr ""
+
+msgctxt "#32025"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#32026"
+msgid "Video quality"
+msgstr ""
+
+msgctxt "#32027"
+msgid "Preferred stream"
+msgstr ""
+
+msgctxt "#32028"
+msgid "User-selectable"
+msgstr ""
+
+msgctxt "#32029"
+msgid "Best available"
+msgstr ""
+
+msgctxt "#32030"
+msgid "First available"
+msgstr ""
+
+msgctxt "#32031"
+msgid "Integration"
+msgstr ""
+
+msgctxt "#32032"
+msgid "Install IPTV Manager add-on"
+msgstr ""
+
+msgctxt "#32033"
+msgid "Enable IPTV Manager integration"
+msgstr ""
+
+msgctxt "#32034"
+msgid "IPTV Manager settings…"
+msgstr ""
+
+msgctxt "#32035"
+msgid "Auto-select stream"
+msgstr ""
+
+msgctxt "#32036"
+msgid "EPG source"
+msgstr ""
+
+msgctxt "#32037"
+msgid "No streams available."
+msgstr ""
+
+msgctxt "#32038"
+msgid "Webcams"
+msgstr ""
+
+msgctxt "#32039"
+msgid "Webcam"
+msgstr ""

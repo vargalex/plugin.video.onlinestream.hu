@@ -1,0 +1,30 @@
+﻿[B]1.1.8[/B]
+- Webkamerák kategória
+
+[B]1.1.7[/B]
+- Kodi 19 (Matrix) kompatibilitás
+
+[B]1.1.6[/B]
+- IPTV Manager (IPTV Simple) integráció (béta)
+
+[B]1.1.5[/B]
+- Bekapcsolható automatikus stream és felbontás választás
+
+[B]1.1.4[/B]
+- API változás
+- Hibajavítások
+
+[B]1.1.3[/B]
+- Domain csere (onlinestream.live)
+
+[B]1.1.2[/B]
+- Hibajavítás
+
+[B]1.1.1[/B]
+- Cache javítás
+
+[B]1.1.0[/B]
+- Kedvencek menü
+
+[B]1.0.0[/B]
+- Initial version

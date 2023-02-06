@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32025">
+        <setting id="preferred_video_quality" type="enum" label="32026" lvalues="32028|32029" default="0" />
+        <setting id="preferred_stream" type="enum" label="32027" lvalues="32028|32030" default="0" />
+    	<setting id="clear_cache" type="action" label="32021" enable="true" option="close" action="RunPlugin(plugin://plugin.video.onlinestream.hu/?action=clearCache)" />
+        <setting id="clear_fav" type="action" label="32022" enable="true" option="close" action="RunPlugin(plugin://plugin.video.onlinestream.hu/?action=clearFav)" />
+        <setting id="ver" type="text" default="" visible="false" />
+    </category>
+    <category label="32031">
+        <setting label="32032" type="action" action="InstallAddon(service.iptv.manager)" option="close" visible="!System.HasAddon(service.iptv.manager)" />
+        <setting id="iptv.enabled" label="32033" type="bool" default="true" visible="System.HasAddon(service.iptv.manager)" />
+        <setting label="32034" type="action" action="Addon.OpenSettings(service.iptv.manager)" enable="eq(-1,true)" option="close" visible="System.HasAddon(service.iptv.manager)" subsetting="true" />
+        <setting id="iptv.autoselect_stream" label="32035" type="bool" default="true" enable="eq(-2,true)" visible="System.HasAddon(service.iptv.manager)" subsetting="true" />
+        <setting id="iptv.epg_source" label="32036" type="text" default="" enable="eq(-3,true)" visible="System.HasAddon(service.iptv.manager)" subsetting="true" />
+        <setting id="iptv.channels_uri" default="plugin://plugin.video.onlinestream.hu/iptv/channels" visible="false" />
+        <setting id="iptv.epg_uri" default="plugin://plugin.video.onlinestream.hu/iptv/epg" visible="false" />
+    </category>
+</settings>

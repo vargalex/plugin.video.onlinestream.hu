@@ -1,0 +1,164 @@
+# Kodi Media Center language file
+# Addon Name: Online Stream
+# Addon id: plugin.audio.onlinestream.hu
+# Addon version: 1.0.0
+# Addon Provider: aky01
+
+msgid ""
+msgstr ""
+
+msgctxt "#32001"
+msgid "TVs"
+msgstr "TV-k"
+
+msgctxt "#32002"
+msgid "Radios"
+msgstr "Rádiók"
+
+msgctxt "#32003"
+msgid "[COLOR green]Next page >>[/COLOR]"
+msgstr "[COLOR green]Következő oldal >>[/COLOR]"
+
+msgctxt "#32004"
+msgid "Search"
+msgstr "Keresés"
+
+msgctxt "#32005"
+msgid "Sort stations"
+msgstr "Csatornák rendezése"
+
+msgctxt "#32006"
+msgid "By popularity"
+msgstr "Népszerűség szerint"
+
+msgctxt "#32007"
+msgid "By name"
+msgstr "Név szerint"
+
+msgctxt "#32008"
+msgid "Select channel"
+msgstr "Válassz csatornát"
+
+msgctxt "#32009"
+msgid "Tracklist"
+msgstr "Műsorinfó"
+
+msgctxt "#32010"
+msgid "Tracklist not available"
+msgstr "Műsorinfó nem elérhető"
+
+msgctxt "#32011"
+msgid "Cannot connect to database!"
+msgstr "Nem sikerült csatlakozni az adatbázishoz!"
+
+msgctxt "#32012"
+msgid "No results!"
+msgstr "Nincs találat!"
+
+msgctxt "#32013"
+msgid "Select resolution"
+msgstr "Válassz felbontást"
+
+msgctxt "#32014"
+msgid "TV"
+msgstr "TV"
+
+msgctxt "#32015"
+msgid "Radio"
+msgstr "Rádió"
+
+msgctxt "#32016"
+msgid "Favourites"
+msgstr "Kedvencek"
+
+msgctxt "#32017"
+msgid "Add to Favourites"
+msgstr "Hozzáadás Online Stream kedvencekhez"
+
+msgctxt "#32018"
+msgid "Delete from Favourites"
+msgstr "Eltávolítás Online Stream kedvencekből"
+
+msgctxt "#32019"
+msgid "Favourites folder empty"
+msgstr "Nincsenek kedvenc csatornáid"
+
+msgctxt "#32020"
+msgid "Added to Favourites"
+msgstr "Kedvencekhez hozzáadva"
+
+msgctxt "#32021"
+msgid "Clear addon Cache"
+msgstr "Gyorsítótár tisztítása"
+
+msgctxt "#32022"
+msgid "Clear Favourites"
+msgstr "Kedvencek törlése"
+
+msgctxt "#32023"
+msgid "Are you sure?"
+msgstr "Biztos benne?"
+
+msgctxt "#32024"
+msgid "Process Complete"
+msgstr "Művelet befejezve."
+
+msgctxt "#32025"
+msgid "Settings"
+msgstr "Beállítások"
+
+msgctxt "#32026"
+msgid "Video quality"
+msgstr "Videó minősége"
+
+msgctxt "#32027"
+msgid "Preferred stream"
+msgstr "Előnyben részesített stream"
+
+msgctxt "#32028"
+msgid "User-selectable"
+msgstr "Választható"
+
+msgctxt "#32029"
+msgid "Best available"
+msgstr "Legjobb elérhető"
+
+msgctxt "#32030"
+msgid "First available"
+msgstr "Első elérhető"
+
+msgctxt "#32031"
+msgid "Integration"
+msgstr "Integráció"
+
+msgctxt "#32032"
+msgid "Install IPTV Manager add-on"
+msgstr "IPTV Manager kiegészítő telepítése"
+
+msgctxt "#32033"
+msgid "Enable IPTV Manager integration"
+msgstr "IPTV Manager integráció engedélyezése"
+
+msgctxt "#32034"
+msgid "IPTV Manager settings…"
+msgstr "IPTV Manager beállítások…"
+
+msgctxt "#32035"
+msgid "Auto-select stream"
+msgstr "Stream automatikus választása"
+
+msgctxt "#32036"
+msgid "EPG source"
+msgstr "EPG forrás"
+
+msgctxt "#32037"
+msgid "No streams available."
+msgstr "Jelenleg nincs elérhető stream."
+
+msgctxt "#32038"
+msgid "Webcams"
+msgstr "Webkamerák"
+
+msgctxt "#32039"
+msgid "Webcam"
+msgstr "Webkamera"
